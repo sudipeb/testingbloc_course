@@ -1,14 +1,14 @@
 [
     {
         "name": "Sushant Khadka",
-        "age": "25"
+        "age": 20
     },
     {
         "name": "Rohit Jha",
-        "age": "26"
+        "age": 30
     },
     {
         "name": "Ankit Kumar",
-        "age": "27"
+        "age": 40
     }
 ]
